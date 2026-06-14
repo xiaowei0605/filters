@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mVyfal9Ri0HkcxXFw69QGw
-! Version: 202606141411
+! Checksum: 5PWPMuFld/SYozOkQ8MXIw
+! Version: 202606141612
 ! Title: EasyList
-! Last modified: 14 Jun 2026 14:11 UTC
+! Last modified: 14 Jun 2026 16:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19048,6 +19048,7 @@ browsershots.org#@#.advert_area
 ||araneidboruca.com^
 ||arangoclawk.com^
 ||araoyljo.com^
+||arapahoclinbribes.cfd^
 ||ararobafozy.cyou^
 ||arbaalette.cfd^
 ||arbovkqarkm.in^
@@ -26519,6 +26520,7 @@ browsershots.org#@#.advert_area
 ||dsgwoa.com^
 ||dsgwqe.com^
 ||dshbju.com^
+||dshbxx.com^
 ||dshdly.com^
 ||dshfbd.com^
 ||dshhkl.com^
@@ -26872,6 +26874,7 @@ browsershots.org#@#.advert_area
 ||dynamicapl.com^
 ||dynamicfibroid.cyou^
 ||dynamics2048.net^
+||dynamics2efficient.com^
 ||dynamics421.com^
 ||dynamics69.com^
 ||dynamics880.net^
@@ -26911,6 +26914,7 @@ browsershots.org#@#.advert_area
 ||dziaswanvdt.in^
 ||dzjegcogtzqou.online^
 ||dzjlyvcsggmls.online^
+||dzkobuufsvsmo.space^
 ||dzkzmcikxhdy.com^
 ||dzlawmilngfcp.space^
 ||dzmrbjehnpkah.site^
@@ -32052,6 +32056,7 @@ browsershots.org#@#.advert_area
 ||gupbokzqszbvn.store^
 ||guppyvitita.shop^
 ||guqeeflwaxjec.today^
+||gurcsrupycbis.space^
 ||gurdylangel.cfd^
 ||gurgleupstandingexist.com^
 ||gurglytabloid.cyou^
@@ -32586,6 +32591,7 @@ browsershots.org#@#.advert_area
 ||hdvcode.com^
 ||hdwetwindle.com^
 ||hdzdghrmhuexs.site^
+||he34rm8256g72prijmq.cfd^
 ||he7ll.com^
 ||headacheaim.com^
 ||headline205.fun^
@@ -35159,6 +35165,7 @@ browsershots.org#@#.advert_area
 ||itren.site^
 ||itrigra.ru^
 ||itrustzone.site^
+||itsaqxtw.com^
 ||itseagleswig.com^
 ||itsguiltymistaken.com^
 ||itskiddien.club^
@@ -35625,6 +35632,7 @@ browsershots.org#@#.advert_area
 ||jeopardpocking.qpon^
 ||jeqpqqqqwkmxk.store^
 ||jeqsuyzlpwjzy.rocks^
+||jereanguschorism.cfd^
 ||jerkilyrebop.qpon^
 ||jerktyjgpw.com^
 ||jerkystators.cyou^
@@ -35724,6 +35732,7 @@ browsershots.org#@#.advert_area
 ||jhncmokruwmhd.website^
 ||jhnwr.com^
 ||jhoolfremdly.shop^
+||jhoqgfgm.com^
 ||jhowrita.qpon^
 ||jhpenp6fwwhjbfu.rest^
 ||jhqieljrzibnr.store^
@@ -40070,6 +40079,7 @@ browsershots.org#@#.advert_area
 ||mikka.app^
 ||mikkvmklsfzwv.store^
 ||mikqukcumhivv.online^
+||mikvehsphloxes.cfd^
 ||milchigpassout.cyou^
 ||mildcauliflower.com^
 ||mildconsciousness.com^
@@ -53954,8 +53964,11 @@ browsershots.org#@#.advert_area
 ||tlqjonbqwuwmp.online^
 ||tlrfikhhctnigq.com^
 ||tlrkcj17.de^
+||tltftozhercmx.website^
 ||tlucfqhtavxyx.space^
+||tluhigpbrybww.space^
 ||tluihoeadocjs.store^
+||tluipjbf8745y5elzjbni9fi1igltcf.rest^
 ||tlysearchingforanop.com^
 ||tlzwfptcxztnx.space^
 ||tm5kpprikka.com^
@@ -54232,6 +54245,7 @@ browsershots.org#@#.advert_area
 ||tpivryav.in^
 ||tpiwuerxwtuyz.online^
 ||tpjdszootpiir.online^
+||tpjnsbmpkeigi.online^
 ||tpmedia-reactads.com^
 ||tpmr.com^
 ||tpn134.com^
@@ -55325,6 +55339,7 @@ browsershots.org#@#.advert_area
 ||uicooheecarnel.cfd^
 ||uidpklgzchjnf.website^
 ||uidsync.net^
+||uieakzmpzhdtk.space^
 ||uifncgofildko.space^
 ||uighnhsbatmdf.store^
 ||uihrpfnmkzgkx.website^
@@ -56034,6 +56049,7 @@ browsershots.org#@#.advert_area
 ||uqfipgfdpukt.com^
 ||uqijlljfxmfbi.website^
 ||uqjtqvzdujsjh.online^
+||uqkshqnkbcruy.online^
 ||uqletjdcbcwwtf.com^
 ||uqmgqhhhutssb.online^
 ||uqoefwpqdrpss.website^
@@ -57703,6 +57719,7 @@ browsershots.org#@#.advert_area
 ||wacxepvqjrqym.site^
 ||wadecarbohydrate.com^
 ||wadkonhl.com^
+||wadxfdqzocbof.site^
 ||waescyne.com^
 ||waeshana.com^
 ||waexhoxdqigad.space^
@@ -58567,6 +58584,7 @@ browsershots.org#@#.advert_area
 ||windsplay.com^
 ||windupsfibulas.cfd^
 ||windyplentiful.com^
+||windytotal.pro^
 ||winemeaslesnab.com^
 ||winged-addition.com^
 ||winged-rice.pro^
