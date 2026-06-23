@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: lDnuJ/pSURGiogFD9tdN0Q
-! Diff-Path: ../patches/3_optimized/3_optimized-s-1782199610-3600.patch
+! Checksum: 8dnjEIS2NJYIFGFttic/wQ
+! Diff-Path: ../patches/3_optimized/3_optimized-s-1782220183-3600.patch
 ! Title: AdGuard Tracking Protection filter (Optimized)
 ! Description: The most comprehensive list of various online counters and web analytics tools. Use this filter if you do not want your actions on the Internet to be tracked.
-! Version: 2.1.6.9
-! TimeUpdated: 2026-06-23T07:23:20+00:00
+! Version: 2.1.6.12
+! TimeUpdated: 2026-06-23T13:06:13+00:00
 ! Expires: 5 days (update frequency)
 !+ NOT_PLATFORM(ext_chromium_mv3)
 www.youtube.com##+js(no-xhr-if, /\/api\/stats\/atr\?.+?&rt=\d+\.\d+.+?&volume=\d+&cbr=.+?&fexp=v1%[-%0-9C]{300\,}&.+?&muted=\d(&vis=3)?&docid=/ method:POST)
@@ -210,6 +210,7 @@ biteki.com##.slick-slide > div[id] + script:upward(1):remove()
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||avsplow.com^
 ||codedrink.com^
 ||mfilterit.net^$3p
 ||clickhouse-collector.*.prod.plat.agency^
@@ -78695,6 +78696,7 @@ biteki.com##.slick-slide > div[id] + script:upward(1):remove()
 ||countly.
 ||countly-
 |piwik.
+||event-collector.analytics.onedio.com^
 ||obs.forseasky.com^
 ||t.ofsys.com^
 ||collector.umogames.com^
@@ -181502,6 +181504,12 @@ mexc.com##+js(set-local-storage-item, _yjsu_yjad, $remove$)
 /prod/dfm/t8y9347t.min.js$redirect=noop.txt,important,domain=dailycamera.com,image,media,subdocument,stylesheet,script,xhr,other
 ||google-analytics.com^$object,redirect=noop.js,script
 ||googletagmanager.com/gtag/$3p,object,redirect=noop.js,script
+||geeky-gadgets.net/api/event
+||aviakassa.com/api/v*/logger
+mego.travel##+js(set-local-storage-item, /^snowplowOutQueue_/, $remove$)
+||skyscanner.*/g/banana-tallyman/tallyman/track/
+||skyscanner.*/g/aps/public/api/v1/
+||skyscanner.*/slipstream/
 ||x.com/1.1/graphql/app_context.json
 ||x.com/1.1/graphql/viewer_context.json
 ||x.com/i/api/1.1/graphql/app_context.json
@@ -188491,6 +188499,7 @@ d4?appid*type*
 !### Temporary ###
 @@||st-*.dynamicyield.com/st*&inHead=true&id=*&jsession=*scriptVersion=*&noConsent=
 !#################
+@@||cdn.clerk.io/clerk.js$domain=jaktdepotet.no
 @@||tesco.com/akam/13/$domain=tesco.com
 @@||tag.search.sensefuel.live/tag$domain=bricoman.pl
 @@||cdn.optimizely.com/datafiles/*.json$domain=bbc.com
@@ -191584,6 +191593,7 @@ demae-can.com##+js(remove-attr, data-trm-action|data-trm-category|data-trm-label
 ||fitnessmapper.com^
 ||fivesidedsquare.com^
 ||fixedfold.com^
+||fjordsand.com^
 ||flakyfeast.com^
 ||flameuncle.com^
 ||flashtexting.com^
