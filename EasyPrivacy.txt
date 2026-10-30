@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: xn/Jdj/851a+Zu9wnbazjA
-! Version: 202610300032
+! Checksum: Rlw58Si4sWS5ICKtW46Iig
+! Version: 202610300942
 ! Title: EasyPrivacy
-! Last modified: 30 Oct 2026 00:32 UTC
+! Last modified: 30 Oct 2026 09:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12894,6 +12894,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bhphotovideo.com/aperture/shared/js/dataLayer.js
 ||bi.banggood.com^
 ||bicp-analytics.postscript.io^
+||bifrost-api.hotstar.com^
 ||bigw.com.au/api/event/
 ||bigw.com.au/events/
 ||bing.com/fd/ls/GLinkPing.aspx?
