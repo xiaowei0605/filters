@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: OWLmg12SD3Xqff9ZWhJqEQ
-! Version: 202611040542
+! Checksum: m+38tnkYmvafspcsDRo2sA
+! Version: 202611041403
 ! Title: EasyPrivacy
-! Last modified: 04 Nov 2026 05:42 UTC
+! Last modified: 04 Nov 2026 14:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5239,7 +5239,6 @@ omni.soundestlink.com$image
 ||leadintel.io^$third-party
 ||leadintelligence.co.uk^$third-party
 ||leadlab.click^$third-party
-||leadlife.com^$third-party
 ||leadmanagerfx.com^$third-party
 ||leadpipe.com^$third-party
 ||leadsius.com^$third-party
@@ -9579,6 +9578,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||metrics.doppiostreams.com^
 ||metrics.futureplc.engineering^
 ||metrics.gs-chat.com^
+||metrics.kapa.ai^
 ||metrics.kmsmep.com^
 ||metrics.mdstrm.com^
 ||metrics.nsureapi.com^
@@ -9988,6 +9988,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||qq.com/ping.js?
 ||qq.com/stats?
 ||quadpay.com/analytics/
+||qualified.com/packs/js/analytics-
 ||qualifioapp.com/egw/events
 ||qualtrics.com/WRSiteInterceptEngine/?Q_Impress=
 ||quantcast.com/?log
@@ -14529,6 +14530,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tags.news.com.au^$script
 ||tags.stepstone.com^
 ||tahoe.com/imp
+||tailscale.com/api/rudderstack-proxy/
 ||taiwanplus.com/api/video/startVideo
 ||talkingpointsmemo.com/whoami
 ||tao.barstoolsports.com^
@@ -39269,6 +39271,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ! ||belgium.wolterskluwer.com^
 ! ||dhlsupplychain.dhl.com^
 ! ||online.spsglobal.com^
+! ||horizoneurope.ukri.org^
 !
 ||10stepswp.advancedtech.com^
 ||1stparty.equifax.co.uk^
@@ -41320,7 +41323,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||hk-go.experian.com^
 ||home.edm.globalsources.com^
 ||hopeful.coh.org^
-||horizoneurope.ukri.org^
 ||hospitality.redbull.racing^
 ||hptechnology.arrow.com^
 ||hr.adp.ca^
